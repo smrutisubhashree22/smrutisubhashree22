@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smrutisubhashree22
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me subhashree.smruti@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm good at singing 
