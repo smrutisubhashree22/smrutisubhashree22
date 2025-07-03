@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me subhashree.smruti@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm good at singing 
+- ⚡ Fun fact: I can binge an entire anime season in one day!
 
 <!---
 smrutisubhashree22/smrutisubhashree22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
